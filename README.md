@@ -1,2 +1,2 @@
 # React-Get-Advice-App
-Created with CodeSandbox
+An easy react application with Fetch, State, and Props to get advice on button click.
